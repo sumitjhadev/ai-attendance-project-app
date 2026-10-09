@@ -1,4 +1,4 @@
-# AI Attendance Project App
+# AI Attendance Project App.
 
 An AI-powered attendance management system that uses facial recognition to automatically mark and track attendance, eliminating the need for manual roll calls or biometric hardware.
 
